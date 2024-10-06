@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-|[<img src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" alt="LinkedIn Logo" width="24">](https://www.linkedin.com/in/davidmanassa/) |
+|[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="24">](https://www.linkedin.com/in/davidmanassa/) |
 |---|
 
 <!--
