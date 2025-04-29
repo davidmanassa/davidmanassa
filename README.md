@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-|[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="24">](https://www.linkedin.com/in/davidmanassa/) |
-|---|
+[![roadmap.sh](https://roadmap.sh/card/wide/67defb9a8342031660f94b01?variant=dark&roadmaps=full-stack%2Cphp%2Cgit-github%2Cdevops%3Fr%3Ddevops-beginner)](https://roadmap.sh)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="24">](https://www.linkedin.com/in/davidmanassa/)
 
 <!--
 |[<img src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" alt="LinkedIn Logo" width="24">](https://www.linkedin.com/in/davidmanassa/) | [<img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Logo" width="100">](http://paypal.me/davidmanassa)
